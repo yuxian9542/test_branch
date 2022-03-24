@@ -2,4 +2,4 @@ import numpy as np
 
 
 def model():
-    pass
+   print("add a feature by yz2") 
